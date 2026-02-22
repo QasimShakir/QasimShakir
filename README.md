@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I am Qasim Shakir
-Currently Computer Science Student at Habib University
 
 I am a Bachelors in Computer Science student (2023-2027) at Habib University with a focus on Deep Learning, NLP, and Full-Stack Development. My experience ranges from developing Transformer-based models for Urdu NLP to web development internships and instructional roles in algorithmic problem solving.
 +1
